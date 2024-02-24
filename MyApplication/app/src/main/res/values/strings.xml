@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Matrix</string>
+    <string name="refresh">Refresh</string>
+    <string name="on">Clear</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="gumb">Gumb</string>
+</resources>
